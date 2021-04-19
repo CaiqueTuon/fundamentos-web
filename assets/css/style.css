@@ -1,0 +1,67 @@
+/*Estilos da pagina index.html*/
+@font-face {
+    font-family:"fonteHC" ;
+    src: url("../fonts/Franchise.ttf");
+}
+
+body{
+    background-color: #786fa6 ;
+}
+.center{
+    text-align: center;
+}
+
+.container{
+    font-size:large;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+#menu li{
+    display: inline;
+    padding: 30px;
+    text-decoration: none;
+}
+
+#menu li a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family:"fonteHC";
+    color: white;
+
+}
+#menu li a:hover{
+    color: gray;
+}
+#sobremim{
+    font-family: "fonteHC";
+
+}
+.br-50{
+    border-radius: 50%;
+}
+.p-30{
+    padding: 30px;
+}
+.wh-300{
+    width: 300px;
+    height: 300px;
+}
+#h1 {
+    font-family: "fonteHC";
+    font-size: medium;
+}
+.tm-social{
+    padding: 30%;
+
+}
+.subTitle{
+    color: white;
+}
+.margemLeft{
+    margin-left: 50px;
+}
+#findMe{
+    font-family: Arial, sans-serif;
+}
