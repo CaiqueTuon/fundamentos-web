@@ -3,10 +3,10 @@
     font-family:"fonteHC" ;
     src: url("../fonts/Franchise.ttf");
 }
-
 body{
     background-color: #786fa6 ;
 }
+
 .center{
     text-align: center;
 }
